@@ -1,4 +1,4 @@
-﻿Console.WriteLine("");
+﻿Console.WriteLine("haikai");
 Console.WriteLine("");
 
 Console.WriteLine("Noite. Um silvo no ar,");
